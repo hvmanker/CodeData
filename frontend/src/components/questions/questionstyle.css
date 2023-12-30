@@ -1,0 +1,21 @@
+.category-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .category-card {
+    border: 1px solid #ccc;
+    padding: 24px;
+    text-align: center;
+    min-height: 150px; /* Set a minimum height for consistency */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  button {
+    margin-top: 16px;
+    cursor: pointer;
+  }
+  

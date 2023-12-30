@@ -1,0 +1,3638 @@
+[{
+  "_id": {
+    "$oid": "6554f10553a0685269b44055"
+  },
+  "question_id": 1,
+  "title": "Reverse the array",
+  "links": {
+    "URL": "https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/reverse-the-array_1262298?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44056"
+  },
+  "question_id": 2,
+  "title": "Find the maximum and minimum element in an array",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/sum-of-max-and-min_1081476?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44057"
+  },
+  "question_id": 3,
+  "title": "Find the \"Kth\" max and min element of an array",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/kth-smallest-element/0",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/kth-smallest-and-largest-element-of-array_1115488?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44058"
+  },
+  "question_id": 4,
+  "title": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44059"
+  },
+  "question_id": 5,
+  "title": "Move all the negative elements to one side of the array",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/move-all-negative-numbers-to-beginning-and-positive-to-end_1112620?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b4405a"
+  },
+  "question_id": 6,
+  "title": "Find the Union and Intersection of the two sorted arrays.",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/find-similarities-between-two-arrays_1229070?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b4405b"
+  },
+  "question_id": 7,
+  "title": "Write a program to cyclically rotate an array by one.",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/rotate-array_1230543?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b4405c"
+  },
+  "question_id": 8,
+  "title": "find Largest sum contiguous Subarray [V. IMP]",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/maximum-subarray-sum_630526?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b4405d"
+  },
+  "question_id": 9,
+  "title": "Minimise the maximum difference between heights [V.IMP]",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/minimize-the-difference_3208652?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b4405e"
+  },
+  "question_id": 10,
+  "title": "Minimum no. of Jumps to reach the end of an array",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/minimum-jumps_1062693?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b4405f"
+  },
+  "question_id": 11,
+  "title": "find duplicate in an array of N+1 Integers",
+  "links": {
+    "URL": "https://leetcode.com/problems/find-the-duplicate-number/",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44060"
+  },
+  "question_id": 12,
+  "title": "Merge 2 sorted arrays without using Extra space.",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1",
+    "URL2": ""
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44061"
+  },
+  "question_id": 13,
+  "title": "Kadane's Algo [V.V.V.V.V IMP]",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+    "URL2": ""
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44062"
+  },
+  "question_id": 14,
+  "title": "Merge Intervals",
+  "links": {
+    "URL": "https://leetcode.com/problems/merge-intervals/",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/merge-intervals_699917?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44063"
+  },
+  "question_id": 15,
+  "title": "Next Permutation",
+  "links": {
+    "URL": "https://leetcode.com/problems/next-permutation/",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/next-permutation_893046?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44064"
+  },
+  "question_id": 16,
+  "title": "Count Inversion",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/count-inversions_615?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44065"
+  },
+  "question_id": 17,
+  "title": "Best time to buy and Sell stock",
+  "links": {
+    "URL": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/stocks-are-profitable_893405?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44066"
+  },
+  "question_id": 18,
+  "title": "find all pairs on integer array whose sum is equal to given number",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/pair-sum_1171154?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44067"
+  },
+  "question_id": 19,
+  "title": "find common elements In 3 sorted arrays",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/common-elements1132/1",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/common-elements-in-three-sorted-arrays_1113130?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44068"
+  },
+  "question_id": 20,
+  "title": "Rearrange the array in alternating positive and negative items with O(1) extra space",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/rearrange-alternatively_873851?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b44069"
+  },
+  "question_id": 21,
+  "title": "Find if there is any subarray with sum equal to 0",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/subset-sum-equal-to-k_1550954?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b4406a"
+  },
+  "question_id": 22,
+  "title": "Find factorial of a large number",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/factorial-of-a-large-number_1115471?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b4406b"
+  },
+  "question_id": 23,
+  "title": "find maximum product subarray",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/maximum-product-subarray_1115474?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b4406c"
+  },
+  "question_id": 24,
+  "title": "Find longest consecutive subsequence",
+  "links": {
+    "URL": "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/longest-consecutive-sequence_759408?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b4406d"
+  },
+  "question_id": 25,
+  "title": "Given an array of size n and a number k, find all elements that appear more than \" n/k \" times.",
+  "links": {
+    "URL": "https://leetcode.com/problems/majority-element-ii/",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/elements-occur-more-than-n-k-times_1113146?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "6554f10553a0685269b4406e"
+  },
+  "question_id": 26,
+  "title": "Maximum profit by buying and selling a share at most twice",
+  "links": {
+    "URL": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+    "URL2": "https://www.codingninjas.com/codestudio/problems/buy-and-sell-stock_1071012?topList=love-babbar-dsa-sheet-problems"
+  },
+  "category": "Love babbar",
+  "tag": "Array"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd0a"
+  },
+  "question_id": 27,
+  "title": "Spiral traversal on a Matrix",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0"
+  },
+  "category": "Love babbar",
+  "tag": "Matrix"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd0b"
+  },
+  "question_id": 28,
+  "title": "Search an element in a matrix",
+  "links": {
+    "URL1": "https://leetcode.com/problems/search-a-2d-matrix/"
+  },
+  "category": "Love babbar",
+  "tag": "Matrix"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd0c"
+  },
+  "question_id": 29,
+  "title": "Find median in a row wise sorted matrix",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1"
+  },
+  "category": "Love babbar",
+  "tag": "Matrix"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd0d"
+  },
+  "question_id": 30,
+  "title": "Find row with the maximum number of 1's",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1"
+  },
+  "category": "Love babbar",
+  "tag": "Matrix"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd0e"
+  },
+  "question_id": 31,
+  "title": "Print elements in sorted order using row-column wise sorted matrix",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/sorted-matrix/0"
+  },
+  "category": "Love babbar",
+  "tag": "Matrix"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd0f"
+  },
+  "question_id": 32,
+  "title": "Maximum size rectangle",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/max-rectangle/1"
+  },
+  "category": "Love babbar",
+  "tag": "Matrix"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd10"
+  },
+  "question_id": 33,
+  "title": "Find a specific pair in the matrix",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/"
+  },
+  "category": "Love babbar",
+  "tag": "Matrix"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd11"
+  },
+  "question_id": 34,
+  "title": "Rotate matrix by 90 degrees",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/"
+  },
+  "category": "Love babbar",
+  "tag": "Matrix"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd12"
+  },
+  "question_id": 35,
+  "title": "Kth smallest element in a row-column wise sorted matrix",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1"
+  },
+  "category": "Love babbar",
+  "tag": "Matrix"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd13"
+  },
+  "question_id": 36,
+  "title": "Common elements in all rows of a given matrix",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/"
+  },
+  "category": "Love babbar",
+  "tag": "Matrix"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd14"
+  },
+  "question_id": 37,
+  "title": "Reverse a String",
+  "links": {
+    "URL1": "https://leetcode.com/problems/reverse-string/"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd15"
+  },
+  "question_id": 38,
+  "title": "Check whether a String is Palindrome or not",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/palindrome-string0817/1"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "65590f302781f55de958fd16"
+  },
+  "question_id": 39,
+  "title": "Find Duplicate characters in a string",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd18"
+  },
+  "question_id": 40,
+  "title": "Why strings are immutable in Java?",
+  "links": {
+    "URL1": null
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd19"
+  },
+  "question_id": 41,
+  "title": "Write a Code to check whether one string is a rotation of another",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd1a"
+  },
+  "question_id": 42,
+  "title": "Write a Program to check whether a string is a valid shuffle of two strings or not",
+  "links": {
+    "URL1": "https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd1b"
+  },
+  "question_id": 43,
+  "title": "Count and Say problem",
+  "links": {
+    "URL1": "https://leetcode.com/problems/count-and-say/"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd1c"
+  },
+  "question_id": 44,
+  "title": "Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd1d"
+  },
+  "question_id": 45,
+  "title": "Find Longest Recurring Subsequence in String",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd1e"
+  },
+  "question_id": 46,
+  "title": "Print all Subsequences of a string.",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/print-subsequences-string/"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd1f"
+  },
+  "question_id": 47,
+  "title": "Print all the permutations of the given string",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd20"
+  },
+  "question_id": 48,
+  "title": "Split the Binary string into two substrings with equal 0’s and 1’s",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd21"
+  },
+  "question_id": 49,
+  "title": "Word Wrap Problem [VERY IMP]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/word-wrap/0"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd22"
+  },
+  "question_id": 50,
+  "title": "EDIT Distance [Very Imp]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/edit-distance3702/1"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd23"
+  },
+  "question_id": 51,
+  "title": "Find next greater number with the same set of digits. [Very Very IMP]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/next-permutation/0"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd24"
+  },
+  "question_id": 52,
+  "title": "Balanced Parenthesis problem.[Imp]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd25"
+  },
+  "question_id": 53,
+  "title": "Word break Problem[ Very Imp]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/word-break/0"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd26"
+  },
+  "question_id": 54,
+  "title": "Rabin Karp Algo",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd27"
+  },
+  "question_id": 55,
+  "title": "KMP Algo",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "6559104e2781f55de958fd28"
+  },
+  "question_id": 56,
+  "title": "Convert a Sentence into its equivalent mobile numeric keypad sequence.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence0547/1"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd2a"
+  },
+  "question_id": 57,
+  "title": "String matching where one string contains wildcard characters",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/wildcard-string-matching/0"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd2b"
+  },
+  "question_id": 58,
+  "title": "Function to find the Number of customers who could not get a computer",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd2c"
+  },
+  "question_id": 59,
+  "title": "Transform One String to Another using the Minimum Number of Given Operation",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd2d"
+  },
+  "question_id": 60,
+  "title": "Check if two given strings are isomorphic to each other",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/isomorphic-strings/0"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd2e"
+  },
+  "question_id": 61,
+  "title": "Recursively print all sentences that can be formed from a list of word lists",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/"
+  },
+  "category": "Love babbar",
+  "tag": "String"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd2f"
+  },
+  "question_id": 62,
+  "title": "Find first and last positions of an element in a sorted array",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd30"
+  },
+  "question_id": 63,
+  "title": "Find a Fixed Point (Value equal to the index) in a given array",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd31"
+  },
+  "question_id": 64,
+  "title": "Search in a rotated sorted array",
+  "links": {
+    "URL1": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd32"
+  },
+  "question_id": 65,
+  "title": "Square root of an integer",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/square-root/1"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd33"
+  },
+  "question_id": 66,
+  "title": "Maximum and minimum of an array using the minimum number of comparisons",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/middle-of-three2926/1"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd34"
+  },
+  "question_id": 67,
+  "title": "Optimum location of the point to minimize the total distance",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd35"
+  },
+  "question_id": 68,
+  "title": "Find the repeating and the missing",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd36"
+  },
+  "question_id": 69,
+  "title": "Find majority element",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/majority-element/0"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd37"
+  },
+  "question_id": 70,
+  "title": "Searching in an array where adjacent differs by at most k",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd38"
+  },
+  "question_id": 71,
+  "title": "Find a pair with a given difference",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd39"
+  },
+  "question_id": 72,
+  "title": "Find four elements that sum to a given value",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd3a"
+  },
+  "question_id": 73,
+  "title": "Maximum sum such that no 2 elements are adjacent",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/stickler-theif/0"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd3b"
+  },
+  "question_id": 74,
+  "title": "Count triplet with sum smaller than a given value",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd3c"
+  },
+  "question_id": 75,
+  "title": "Merge 2 sorted arrays",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd3d"
+  },
+  "question_id": 76,
+  "title": "Print all subarrays with 0 sum",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd3e"
+  },
+  "question_id": 77,
+  "title": "Product array Puzzle",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/product-array-puzzle/0"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd3f"
+  },
+  "question_id": 78,
+  "title": "Sort array according to the count of set bits",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd40"
+  },
+  "question_id": 79,
+  "title": "Minimum no. of swaps required to sort the array",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/minimum-swaps/1"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd41"
+  },
+  "question_id": 80,
+  "title": "Bishu and Soldiers",
+  "links": {
+    "URL1": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd42"
+  },
+  "question_id": 81,
+  "title": "Rasta and Kheshtak",
+  "links": {
+    "URL1": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/rasta-and-kheshtak/"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd43"
+  },
+  "question_id": 82,
+  "title": "Kth smallest number again",
+  "links": {
+    "URL1": "https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd44"
+  },
+  "question_id": 83,
+  "title": "Find pivot element in a sorted array",
+  "links": {
+    "URL1": "http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd45"
+  },
+  "question_id": 84,
+  "title": "K-th Element of Two Sorted Arrays",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd46"
+  },
+  "question_id": 85,
+  "title": "Aggressive cows",
+  "links": {
+    "URL1": "https://www.spoj.com/problems/AGGRCOW/"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd47"
+  },
+  "question_id": 86,
+  "title": "Book Allocation Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd48"
+  },
+  "question_id": 87,
+  "title": "EKOSPOJ:",
+  "links": {
+    "URL1": "https://www.spoj.com/problems/EKO/"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655911292781f55de958fd49"
+  },
+  "question_id": 88,
+  "title": "Job Scheduling Algo",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/weighted-job-scheduling-log-n-time/"
+  },
+  "category": "Love babbar",
+  "tag": "Searching & Sorting"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd4b"
+  },
+  "question_id": 89,
+  "title": "Write a Program to reverse the Linked List. (Both Iterative and recursive)",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/reverse-a-linked-list/"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd4c"
+  },
+  "question_id": 90,
+  "title": "Reverse a Linked List in group of Given Size. [Very Imp]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd4d"
+  },
+  "question_id": 91,
+  "title": "Write a program to Detect loop in a linked list.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd4e"
+  },
+  "question_id": 92,
+  "title": "Write a program to Delete loop in a linked list.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd4f"
+  },
+  "question_id": 93,
+  "title": "Find the starting point of the loop.",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd50"
+  },
+  "question_id": 94,
+  "title": "Remove Duplicates in a sorted Linked List.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd51"
+  },
+  "question_id": 95,
+  "title": "Remove Duplicates in an Un-sorted Linked List.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd52"
+  },
+  "question_id": 96,
+  "title": "Write a Program to Move the last element to Front in a Linked List.",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd53"
+  },
+  "question_id": 97,
+  "title": "Add “1” to a number represented as a Linked List.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd54"
+  },
+  "question_id": 98,
+  "title": "Add two numbers represented by linked lists.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd55"
+  },
+  "question_id": 99,
+  "title": "Intersection of two Sorted Linked List.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd56"
+  },
+  "question_id": 100,
+  "title": "Intersection Point of two Linked Lists.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd57"
+  },
+  "question_id": 101,
+  "title": "Merge Sort For Linked lists.[Very Important]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd58"
+  },
+  "question_id": 102,
+  "title": "Quicksort for Linked Lists.[Very Important]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd59"
+  },
+  "question_id": 103,
+  "title": "Find the middle Element of a linked list.",
+  "links": {
+    "URL1": "https://leetcode.com/problems/middle-of-the-linked-list/"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd5a"
+  },
+  "question_id": 104,
+  "title": "Check if a linked list is a circular linked list.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/circular-linked-list/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd5b"
+  },
+  "question_id": 105,
+  "title": "Split a Circular linked list into two halves.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd5c"
+  },
+  "question_id": 106,
+  "title": "Write a Program to check whether the Singly Linked list is a palindrome or not.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd5d"
+  },
+  "question_id": 107,
+  "title": "Deletion from a Circular Linked List.",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/deletion-circular-linked-list/"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd5e"
+  },
+  "question_id": 108,
+  "title": "Reverse a Doubly Linked list.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd5f"
+  },
+  "question_id": 109,
+  "title": "Find pairs with a given sum in a DLL.",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd60"
+  },
+  "question_id": 110,
+  "title": "Count triplets in a sorted DLL whose sum is equal to given value “X”.",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd61"
+  },
+  "question_id": 111,
+  "title": "Sort a “k”sorted Doubly Linked list.[Very IMP]",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd62"
+  },
+  "question_id": 112,
+  "title": "Rotate DoublyLinked list by N nodes.",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd63"
+  },
+  "question_id": 113,
+  "title": "Rotate a Doubly Linked list in group of Given Size.[Very IMP]",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd64"
+  },
+  "question_id": 114,
+  "title": "Can we reverse a linked list in less than O(n) ?",
+  "links": {
+    "URL1": null
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd65"
+  },
+  "question_id": 115,
+  "title": "Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?",
+  "links": {
+    "URL1": null
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd66"
+  },
+  "question_id": 116,
+  "title": "Flatten a Linked List",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd67"
+  },
+  "question_id": 117,
+  "title": "Sort a LL of 0's, 1's and 2's",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd68"
+  },
+  "question_id": 118,
+  "title": "Clone a linked list with next and random pointer",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd69"
+  },
+  "question_id": 119,
+  "title": "Merge K sorted Linked list",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd6a"
+  },
+  "question_id": 120,
+  "title": "Multiply 2 no. represented by LL",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd6b"
+  },
+  "question_id": 121,
+  "title": "Delete nodes which have a greater value on the right side",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd6c"
+  },
+  "question_id": 122,
+  "title": "Segregate even and odd nodes in a Linked List",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/0"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd6d"
+  },
+  "question_id": 123,
+  "title": "Program for n’th node from the end of a Linked List",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd6e"
+  },
+  "question_id": 124,
+  "title": "Find the first non-repeating character from a stream of characters",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0"
+  },
+  "category": "Love babbar",
+  "tag": "LinkedList"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd6f"
+  },
+  "question_id": 125,
+  "title": "Level order traversal",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/level-order-traversal/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd70"
+  },
+  "question_id": 126,
+  "title": "Reverse Level Order traversal",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd71"
+  },
+  "question_id": 127,
+  "title": "Height of a tree",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655913702781f55de958fd72"
+  },
+  "question_id": 128,
+  "title": "Diameter of a tree",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd74"
+  },
+  "question_id": 129,
+  "title": "Mirror of a tree",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd75"
+  },
+  "question_id": 130,
+  "title": "Inorder Traversal of a tree both using recursion and Iteration",
+  "links": {
+    "URL1": "https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd76"
+  },
+  "question_id": 131,
+  "title": "Preorder Traversal of a tree both using recursion and Iteration",
+  "links": {
+    "URL1": "https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd77"
+  },
+  "question_id": 132,
+  "title": "Postorder Traversal of a tree both using recursion and Iteration",
+  "links": {
+    "URL1": "https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd78"
+  },
+  "question_id": 133,
+  "title": "Left View of a tree",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd79"
+  },
+  "question_id": 134,
+  "title": "Right View of Tree",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd7a"
+  },
+  "question_id": 135,
+  "title": "Top View of a tree",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd7b"
+  },
+  "question_id": 136,
+  "title": "Bottom View of a tree",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd7c"
+  },
+  "question_id": 137,
+  "title": "Zig-Zag traversal of a binary tree",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd7d"
+  },
+  "question_id": 138,
+  "title": "Check if a tree is balanced or not",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd7e"
+  },
+  "question_id": 139,
+  "title": "Diagonal Traversal of a Binary tree",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd7f"
+  },
+  "question_id": 140,
+  "title": "Boundary traversal of a Binary tree",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd80"
+  },
+  "question_id": 141,
+  "title": "Construct Binary Tree from String with Bracket Representation",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/construct-binary-tree-from-string-with-bracket-representation/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd81"
+  },
+  "question_id": 142,
+  "title": "Convert Binary tree into Doubly Linked List",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd82"
+  },
+  "question_id": 143,
+  "title": "Convert Binary tree into Sum tree",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd83"
+  },
+  "question_id": 144,
+  "title": "Construct Binary tree from Inorder and preorder traversal",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/construct-tree-1/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd84"
+  },
+  "question_id": 145,
+  "title": "Find minimum swaps required to convert a Binary tree into BST",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd85"
+  },
+  "question_id": 146,
+  "title": "Check if Binary tree is Sum tree or not",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/sum-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd86"
+  },
+  "question_id": 147,
+  "title": "Check if all leaf nodes are at the same level or not",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd87"
+  },
+  "question_id": 148,
+  "title": "Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd88"
+  },
+  "question_id": 149,
+  "title": "Check if 2 trees are mirror or not",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd89"
+  },
+  "question_id": 150,
+  "title": "Sum of Nodes on the Longest path from root to leaf node",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd8a"
+  },
+  "question_id": 151,
+  "title": "Check if given graph is a tree or not. [ IMP ]",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/check-given-graph-tree/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd8b"
+  },
+  "question_id": 152,
+  "title": "Find Largest subtree sum in a tree",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd8c"
+  },
+  "question_id": 153,
+  "title": "Maximum Sum of nodes in Binary tree such that no two are adjacent",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd8d"
+  },
+  "question_id": 154,
+  "title": "Print all \"K\" Sum paths in a Binary tree",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "655914652781f55de958fd8e"
+  },
+  "question_id": 155,
+  "title": "Find LCA in a Binary tree",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd90"
+  },
+  "question_id": 156,
+  "title": "Find a value in a BST",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd91"
+  },
+  "question_id": 157,
+  "title": "Deletion of a node in a BST",
+  "links": {
+    "URL1": "https://leetcode.com/problems/delete-node-in-a-bst/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd92"
+  },
+  "question_id": 158,
+  "title": "Find min and max value in a BST",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd93"
+  },
+  "question_id": 159,
+  "title": "Find inorder successor and inorder predecessor in a BST",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd94"
+  },
+  "question_id": 160,
+  "title": "Check if a tree is a BST or not",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/check-for-bst/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd95"
+  },
+  "question_id": 161,
+  "title": "Populate Inorder successor of all nodes",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd96"
+  },
+  "question_id": 162,
+  "title": "Find LCA of 2 nodes in a BST",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd97"
+  },
+  "question_id": 163,
+  "title": "Construct BST from preorder traversal",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd98"
+  },
+  "question_id": 164,
+  "title": "Convert Binary tree into BST",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd99"
+  },
+  "question_id": 165,
+  "title": "Convert a normal BST into a Balanced BST",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd9a"
+  },
+  "question_id": 166,
+  "title": "Merge two BST [ V.V.V>IMP ]",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd9b"
+  },
+  "question_id": 167,
+  "title": "Find Kth largest element in a BST",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd9c"
+  },
+  "question_id": 168,
+  "title": "Find Kth smallest element in a BST",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd9d"
+  },
+  "question_id": 169,
+  "title": "Count pairs from 2 BST whose sum is equal to given value \"X\"",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd9e"
+  },
+  "question_id": 170,
+  "title": "Find the median of BST in O(n) time and O(1) space",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fd9f"
+  },
+  "question_id": 171,
+  "title": "Count BST nodes that lie in a given range",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fda0"
+  },
+  "question_id": 172,
+  "title": "Replace every element with the least greater element on its right",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fda1"
+  },
+  "question_id": 173,
+  "title": "Given \"n\" appointments, find the conflicting appointments",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fda2"
+  },
+  "question_id": 174,
+  "title": "Check preorder is valid or not",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fda3"
+  },
+  "question_id": 175,
+  "title": "Check whether BST contains Dead end",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fda4"
+  },
+  "question_id": 176,
+  "title": "Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/largest-bst/1"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fda5"
+  },
+  "question_id": 177,
+  "title": "Flatten BST to sorted list",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/"
+  },
+  "category": "Love babbar",
+  "tag": "Binary Search Trees"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fda6"
+  },
+  "question_id": 178,
+  "title": "Activity Selection Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1/"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fda7"
+  },
+  "question_id": 179,
+  "title": "Job Sequencing Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fda8"
+  },
+  "question_id": 180,
+  "title": "Huffman Coding",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/huffman-encoding/0"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fda9"
+  },
+  "question_id": 181,
+  "title": "Water Connection Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/water-connection-problem/0"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fdaa"
+  },
+  "question_id": 182,
+  "title": "Fractional Knapsack Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/fractional-knapsack/0"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fdab"
+  },
+  "question_id": 183,
+  "title": "Greedy Algorithm to find Minimum number of Coins",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/coin-piles/0"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fdac"
+  },
+  "question_id": 184,
+  "title": "Maximum trains for which stoppage can be provided",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/maximum-trains-stoppage-can-provided/"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fdad"
+  },
+  "question_id": 185,
+  "title": "Minimum Platforms Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/minimum-platforms/0"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fdae"
+  },
+  "question_id": 186,
+  "title": "Buy Maximum Stocks if i stocks can be bought on the i-th day",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/buy-maximum-stocks-stocks-can-bought-th-day/"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fdaf"
+  },
+  "question_id": 187,
+  "title": "Find the minimum and maximum amount to buy all N candies",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fdb0"
+  },
+  "question_id": 188,
+  "title": "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fdb1"
+  },
+  "question_id": 189,
+  "title": "Minimum Cost to cut a board into squares",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "6559150f2781f55de958fdb2"
+  },
+  "question_id": 190,
+  "title": "Check if it is possible to survive on Island",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/survival/"
+  },
+  "category": "Love babbar",
+  "tag": "Greedy"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdb4"
+  },
+  "question_id": 191,
+  "title": "Rat in a maze Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdb5"
+  },
+  "question_id": 192,
+  "title": "Printing all solutions in N-Queen Problem",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdb6"
+  },
+  "question_id": 193,
+  "title": "Word Break Problem using Backtracking",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/word-break-part-2/0"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdb7"
+  },
+  "question_id": 194,
+  "title": "Remove Invalid Parentheses",
+  "links": {
+    "URL1": "https://leetcode.com/problems/remove-invalid-parentheses/"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdb8"
+  },
+  "question_id": 195,
+  "title": "Sudoku Solver",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdb9"
+  },
+  "question_id": 196,
+  "title": "m Coloring Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdba"
+  },
+  "question_id": 197,
+  "title": "Print all palindromic partitions of a string",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdbb"
+  },
+  "question_id": 198,
+  "title": "Subset Sum Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdbc"
+  },
+  "question_id": 199,
+  "title": "The Knight’s tour problem",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdbd"
+  },
+  "question_id": 200,
+  "title": "Tug of War",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/tug-of-war/"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdbe"
+  },
+  "question_id": 201,
+  "title": "Find shortest safe route in a path with landmines",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdbf"
+  },
+  "question_id": 202,
+  "title": "Combinational Sum",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/combination-sum/0"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdc0"
+  },
+  "question_id": 203,
+  "title": "Find Maximum number possible by doing at-most K swaps",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdc1"
+  },
+  "question_id": 204,
+  "title": "Print all permutations of a string",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdc2"
+  },
+  "question_id": 205,
+  "title": "Find if there is a path of more than k length from a source",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdc3"
+  },
+  "question_id": 206,
+  "title": "Longest Possible Route in a Matrix with Hurdles",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdc4"
+  },
+  "question_id": 207,
+  "title": "Print all possible paths from top left to bottom right of a mXn matrix",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdc5"
+  },
+  "question_id": 208,
+  "title": "Partition of a set into K subsets with equal sum",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdc6"
+  },
+  "question_id": 209,
+  "title": "Find the K-th Permutation Sequence of first N natural numbers",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/"
+  },
+  "category": "Love babbar",
+  "tag": "BackTracking"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdc7"
+  },
+  "question_id": 210,
+  "title": "Implement Stack from Scratch",
+  "links": {
+    "URL1": "https://www.tutorialspoint.com/javaexamples/data_stack.htm"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdc8"
+  },
+  "question_id": 211,
+  "title": "Implement Queue from Scratch",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdc9"
+  },
+  "question_id": 212,
+  "title": "Implement 2 stack in an array",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdca"
+  },
+  "question_id": 213,
+  "title": "find the middle element of a stack",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdcb"
+  },
+  "question_id": 214,
+  "title": "Implement \"N\" stacks in an Array",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdcc"
+  },
+  "question_id": 215,
+  "title": "Check the expression has valid or Balanced parenthesis or not.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdcd"
+  },
+  "question_id": 216,
+  "title": "Reverse a String using Stack",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdce"
+  },
+  "question_id": 217,
+  "title": "Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/special-stack/1"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdcf"
+  },
+  "question_id": 218,
+  "title": "Find the next Greater element",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/next-larger-element/0"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655915972781f55de958fdd0"
+  },
+  "question_id": 219,
+  "title": "The celebrity Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdd2"
+  },
+  "question_id": 220,
+  "title": "Sum of minimum and maximum elements of all subarrays of size “k”.",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdd3"
+  },
+  "question_id": 221,
+  "title": "Minimum sum of squares of character counts in a given string after removing “k” characters.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/game-with-string/0"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdd4"
+  },
+  "question_id": 222,
+  "title": "Queue based approach or first non-repeating character in a stream.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdd5"
+  },
+  "question_id": 223,
+  "title": "Next Smaller Element",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/next-smaller-element/"
+  },
+  "category": "Love babbar",
+  "tag": "Stacks & Queues"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdd6"
+  },
+  "question_id": 224,
+  "title": "Implement a Maxheap/MinHeap using arrays and recursion.",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/building-heap-from-array/"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdd7"
+  },
+  "question_id": 225,
+  "title": "Sort an Array using heap. (HeapSort)",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/heap-sort/"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdd8"
+  },
+  "question_id": 226,
+  "title": "Maximum of all subarrays of size k.",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdd9"
+  },
+  "question_id": 227,
+  "title": "“k” largest element in an array",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdda"
+  },
+  "question_id": 228,
+  "title": "Kth smallest and largest element in an unsorted array",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fddb"
+  },
+  "question_id": 229,
+  "title": "Merge “K” sorted arrays. [ IMP ]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fddc"
+  },
+  "question_id": 230,
+  "title": "Merge 2 Binary Max Heaps",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap/0"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fddd"
+  },
+  "question_id": 231,
+  "title": "Kth largest sum continuous subarrays",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdde"
+  },
+  "question_id": 232,
+  "title": "Leetcode- reorganize strings",
+  "links": {
+    "URL1": "https://leetcode.com/problems/reorganize-string/"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fddf"
+  },
+  "question_id": 233,
+  "title": "Merge “K” Sorted Linked Lists [V.IMP]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fde0"
+  },
+  "question_id": 234,
+  "title": "Smallest range in “K” Lists",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fde1"
+  },
+  "question_id": 235,
+  "title": "Median in a stream of Integers",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fde2"
+  },
+  "question_id": 236,
+  "title": "Check if a Binary Tree is Heap",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fde3"
+  },
+  "question_id": 237,
+  "title": "Connect “n” ropes with minimum cost",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fde4"
+  },
+  "question_id": 238,
+  "title": "Convert BST to Min Heap",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/convert-bst-min-heap/"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fde5"
+  },
+  "question_id": 239,
+  "title": "Convert min heap to max heap",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fde6"
+  },
+  "question_id": 240,
+  "title": "Rearrange characters in a string such that no two adjacent are same.",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/rearrange-characters/0"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fde7"
+  },
+  "question_id": 241,
+  "title": "Minimum sum of two numbers formed from digits of an array",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/minimum-sum4058/1"
+  },
+  "category": "Love babbar",
+  "tag": "Heap"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fde8"
+  },
+  "question_id": 242,
+  "title": "Create a Graph, print it (implemented code)",
+  "links": {
+    "URL1": "https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fde9"
+  },
+  "question_id": 243,
+  "title": "Create a Graph (for practice)",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdea"
+  },
+  "question_id": 244,
+  "title": "Implement BFS algorithm",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdeb"
+  },
+  "question_id": 245,
+  "title": "Implement DFS Algo",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916412781f55de958fdec"
+  },
+  "question_id": 246,
+  "title": "Detect Cycle in Directed Graph using BFS/DFS Algo",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdee"
+  },
+  "question_id": 247,
+  "title": "Find if there is a path of more than k length from a source",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdef"
+  },
+  "question_id": 248,
+  "title": "M-Colouring Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdf0"
+  },
+  "question_id": 249,
+  "title": "Minimum edges to reverse to make path from source to destination",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdf1"
+  },
+  "question_id": 250,
+  "title": "Paths to travel each node using each edge (Seven Bridges)",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/paths-travel-nodes-using-edgeseven-bridges-konigsberg/"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdf2"
+  },
+  "question_id": 251,
+  "title": "Vertex Cover Problem",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdf3"
+  },
+  "question_id": 252,
+  "title": "Chinese Postman or Route Inspection",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdf4"
+  },
+  "question_id": 253,
+  "title": "Number of Triangles in a Directed and Undirected Graph",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdf5"
+  },
+  "question_id": 254,
+  "title": "Minimize the cash flow among a given set of friends who have borrowed money from each other",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdf6"
+  },
+  "question_id": 255,
+  "title": "Two Clique Problem",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/"
+  },
+  "category": "Love babbar",
+  "tag": "Graph"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdf7"
+  },
+  "question_id": 256,
+  "title": "Construct a trie from scratch",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/trie-insert-and-search/"
+  },
+  "category": "Love babbar",
+  "tag": "Trie"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdf8"
+  },
+  "question_id": 257,
+  "title": "Find shortest unique prefix for every word in a given list",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/"
+  },
+  "category": "Love babbar",
+  "tag": "Trie"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdf9"
+  },
+  "question_id": 258,
+  "title": "Word Break Problem | (Trie solution)",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/word-break-problem-trie-solution/"
+  },
+  "category": "Love babbar",
+  "tag": "Trie"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdfa"
+  },
+  "question_id": 259,
+  "title": "Given a sequence of words, print all anagrams together",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0"
+  },
+  "category": "Love babbar",
+  "tag": "Trie"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdfb"
+  },
+  "question_id": 260,
+  "title": "Implement a Phone Directory",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/phone-directory/0"
+  },
+  "category": "Love babbar",
+  "tag": "Trie"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdfc"
+  },
+  "question_id": 261,
+  "title": "Print unique rows in a given boolean matrix",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1"
+  },
+  "category": "Love babbar",
+  "tag": "Trie"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdfd"
+  },
+  "question_id": 262,
+  "title": "Coin Change Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/coin-change2448/1"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdfe"
+  },
+  "question_id": 263,
+  "title": "Knapsack Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fdff"
+  },
+  "question_id": 264,
+  "title": "Binomial Coefficient Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/ncr1019/1"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fe00"
+  },
+  "question_id": 265,
+  "title": "Permutation Coefficient Problem",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/permutation-coefficient/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fe01"
+  },
+  "question_id": 266,
+  "title": "Program for nth Catalan Number",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/program-nth-catalan-number/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fe02"
+  },
+  "question_id": 267,
+  "title": "Matrix Chain Multiplication",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fe03"
+  },
+  "question_id": 268,
+  "title": "Edit Distance",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/edit-distance3702/1"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "655916c22781f55de958fe04"
+  },
+  "question_id": 269,
+  "title": "Subset Sum Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe06"
+  },
+  "question_id": 270,
+  "title": "Largest Independent Set Problem",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe07"
+  },
+  "question_id": 271,
+  "title": "Partition problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe08"
+  },
+  "question_id": 272,
+  "title": "Longest Palindromic Subsequence",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe09"
+  },
+  "question_id": 273,
+  "title": "Count All Palindromic Subsequence in a given String",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe0a"
+  },
+  "question_id": 274,
+  "title": "Longest Palindromic Substring",
+  "links": {
+    "URL1": "https://leetcode.com/problems/longest-palindromic-substring/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe0b"
+  },
+  "question_id": 275,
+  "title": "Longest alternating subsequence",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe0c"
+  },
+  "question_id": 276,
+  "title": "Weighted Job Scheduling",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/weighted-job-scheduling/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe0d"
+  },
+  "question_id": 277,
+  "title": "Coin game winner where every player has three choices",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe0e"
+  },
+  "question_id": 278,
+  "title": "Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe0f"
+  },
+  "question_id": 279,
+  "title": "Maximum profit by buying and selling a share at most twice [ IMP ]",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe10"
+  },
+  "question_id": 280,
+  "title": "Optimal Strategy for a Game",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe11"
+  },
+  "question_id": 281,
+  "title": "Optimal Binary Search Tree",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe12"
+  },
+  "question_id": 282,
+  "title": "Palindrome Partitioning Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe13"
+  },
+  "question_id": 283,
+  "title": "Word Wrap Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/word-wrap/0"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe14"
+  },
+  "question_id": 284,
+  "title": "Mobile Numeric Keypad Problem [ IMP ]",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe15"
+  },
+  "question_id": 285,
+  "title": "Boolean Parenthesization Problem",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe16"
+  },
+  "question_id": 286,
+  "title": "Largest rectangular sub-matrix whose sum is 0",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe17"
+  },
+  "question_id": 287,
+  "title": "Largest area rectangular sub-matrix with an equal number of 1’s and 0’s [ IMP ]",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe18"
+  },
+  "question_id": 288,
+  "title": "Maximum sum rectangle in a 2D matrix",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe19"
+  },
+  "question_id": 289,
+  "title": "Maximum profit by buying and selling a share at most k times",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/maximum-profit4657/1"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe1a"
+  },
+  "question_id": 290,
+  "title": "Find if a string is interleaved of two other strings",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/interleaved-strings/1"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe1b"
+  },
+  "question_id": 291,
+  "title": "Maximum Length of Pair Chain",
+  "links": {
+    "URL1": "https://leetcode.com/problems/maximum-length-of-pair-chain/"
+  },
+  "category": "Love babbar",
+  "tag": "Dynamic Programming"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe1c"
+  },
+  "question_id": 292,
+  "title": "Count set bits in an integer",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/set-bits0143/1"
+  },
+  "category": "Love babbar",
+  "tag": "Bit Manipulation"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe1d"
+  },
+  "question_id": 293,
+  "title": "Find the two non-repeating elements in an array of repeating elements",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1"
+  },
+  "category": "Love babbar",
+  "tag": "Bit Manipulation"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe1e"
+  },
+  "question_id": 294,
+  "title": "Count number of bits to be flipped to convert A to B",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/bit-difference/0"
+  },
+  "category": "Love babbar",
+  "tag": "Bit Manipulation"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe1f"
+  },
+  "question_id": 295,
+  "title": "Count total set bits in all numbers from 1 to n",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/count-total-set-bits/0"
+  },
+  "category": "Love babbar",
+  "tag": "Bit Manipulation"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe20"
+  },
+  "question_id": 296,
+  "title": "Program to find whether a no is power of two",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/power-of-2/0"
+  },
+  "category": "Love babbar",
+  "tag": "Bit Manipulation"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe21"
+  },
+  "question_id": 297,
+  "title": "Find position of the only set bit",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1"
+  },
+  "category": "Love babbar",
+  "tag": "Bit Manipulation"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe22"
+  },
+  "question_id": 298,
+  "title": "Copy set bits in a range",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/"
+  },
+  "category": "Love babbar",
+  "tag": "Bit Manipulation"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe23"
+  },
+  "question_id": 299,
+  "title": "Divide two integers without using multiplication, division and mod operator",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/"
+  },
+  "category": "Love babbar",
+  "tag": "Bit Manipulation"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe24"
+  },
+  "question_id": 300,
+  "title": "Calculate square of a number without using *, / and pow()",
+  "links": {
+    "URL1": "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/"
+  },
+  "category": "Love babbar",
+  "tag": "Bit Manipulation"
+},
+{
+  "_id": {
+    "$oid": "6559173e2781f55de958fe25"
+  },
+  "question_id": 301,
+  "title": "Power Set",
+  "links": {
+    "URL1": "https://practice.geeksforgeeks.org/problems/power-set4302/1"
+  },
+  "category": "Love babbar",
+  "tag": "Bit Manipulation"
+}]
